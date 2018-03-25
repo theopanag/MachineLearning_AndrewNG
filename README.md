@@ -5,6 +5,9 @@
 A repository with implementations of certain exercises in Python. The exercises are from the assignments of the excelent corresponding course in Coursera by Andrew NG.The exercises were originally designed to be implemented in Octave/MatLab. All datasets used, have been retrieved from the course material.
 
 ### List of exercises uploaded
+* Exercise 1 - Linear Regression
+* Exercise 2 - Logistic Regression
+* Exercise 3 - Multi-Class Classification and Neural Networks
 * Exercise 4 - Neural Networks Learning
 * Exercise 5 - Regularized Linear Regression and Bias VS Variance
 * Exercise 7 - K-means Clustering and Principal Component Analysis
