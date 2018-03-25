@@ -6,7 +6,7 @@ A repository with implementations of certain exercises in Python. The exercises 
 
 [Exercise 4 - Neural Networks Learning]('Programming Exercise 4 - Neural Networks Learning.ipynb')
 
-[Exercise 5 - Regularized Linear Regression and Bias VS Variance](exercise\ 5/Programming\ Exercise\ 5\ -\ Regularized\ Linear\ Regression\ and\ Bias\ vs\ Variance.ipynb)
+[Exercise 5 - Regularized Linear Regression and Bias VS Variance](../exercise\ 5/Programming\ Exercise\ 5\ -\ Regularized\ Linear\ Regression\ and\ Bias\ vs\ Variance.ipynb)
 
 [Exercise 7 - K-means Clustering and Principal Component Analysis](/exercise 7/Programming Exercise 7 - K-means Clustering and Principal Component Analysis.ipynb)
 
